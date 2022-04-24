@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SerikSE
 - 👀 I’m interested in  beer, traveling, learning new things
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
